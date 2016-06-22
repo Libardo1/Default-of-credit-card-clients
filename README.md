@@ -2,17 +2,19 @@
 
 This research aimed at the case of customers default payments in Taiwan and compares the predictive accuracy of probability of default among five data mining methods.
 
-# Data Set Source:
+### Data Set Source:
 
 Name: Ingrid Hrga
-email address: ihrga '@' unipu.hr
-institutions: Department of Information and Communications Technology, Juraj Dobrila University of Pula, Croatia
 
-# Data Set Information:
+E-mail address: ihrga '@' unipu.hr
+
+Institutions: Department of Information and Communications Technology, Juraj Dobrila University of Pula, Croatia
+
+### Data Set Information:
 
 This research aimed at the case of customers default payments in Taiwan and compares the predictive accuracy of probability of default among five data mining methods. From the perspective of risk management, the result of predictive accuracy of the estimated probability of default will be more valuable than the binary result of classification - credible or not credible clients. Because the real probability of default is unknown, this study presented the novel Sorting Smoothing Method to estimate the real probability of default. With the real probability of default as the response variable (Y), and the predictive probability of default as the independent variable (X), the simple linear regression result (Y = A + BX) shows that the forecasting model produced by artificial neural network has the highest coefficient of determination; its regression intercept (A) is close to zero, and regression coefficient (B) to one. Therefore, among the five data mining techniques, artificial neural network is the only one that can accurately estimate the real probability of default.
 
-# Attribute Information:
+### Attribute Information:
 
 This research employed a binary variable, default payment (Yes = 1, No = 0), as the response variable. This study reviewed the literature and used the following 23 variables as explanatory variables:
 X1: Amount of the given credit (NT dollar): it includes both the individual consumer credit and his/her family (supplementary) credit.
@@ -24,11 +26,11 @@ X6 - X11: History of past payment. We tracked the past monthly payment records (
 X12-X17: Amount of bill statement (NT dollar). X12 = amount of bill statement in September, 2005; X13 = amount of bill statement in August, 2005; . . .; X17 = amount of bill statement in April, 2005.
 X18-X23: Amount of previous payment (NT dollar). X18 = amount paid in September, 2005; X19 = amount paid in August, 2005; . . .;X23 = amount paid in April, 2005.
 
-# Relevant Papers:
+### Relevant Papers:
 
 Yeh, I. C., & Lien, C. H. (2009). The comparisons of data mining techniques for the predictive accuracy of probability of default of credit card clients. Expert Systems with Applications, 36(2), 2473-2480.
 
 
-# Citation Request:
+### Citation Request:
 
 Yeh, I. C., & Lien, C. H. (2009). The comparisons of data mining techniques for the predictive accuracy of probability of default of credit card clients. Expert Systems with Applications, 36(2), 2473-2480.
